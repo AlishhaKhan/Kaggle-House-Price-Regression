@@ -1,2 +1,2 @@
 # Kaggle-house-price-regression
-This repository contains an enhanced version of a regression project originally completed during my AI/ML coursework. The project has been revisited and improved using more advanced preprocessing, feature engineering, model evaluation, and optimization techniques learned later in my machine learning journey.
+This repository showcases the evolution of the same machine learning project through two stages. The Baseline Model represents my original university implementation, while the Optimized Model demonstrates improvements made after completing advanced studies in Machine Learning, NLP, and Deep Learning.
