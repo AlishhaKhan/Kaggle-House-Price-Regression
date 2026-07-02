@@ -1,2 +1,2 @@
 # Kaggle-house-price-regression
-Machine Learning regression project focused on predicting house prices using real-world housing data from Kaggle. Includes data preprocessing, feature engineering, model building, evaluation, and leaderboard participation using Python and regression algorithms.
+This repository contains an enhanced version of a regression project originally completed during my AI/ML coursework. The project has been revisited and improved using more advanced preprocessing, feature engineering, model evaluation, and optimization techniques learned later in my machine learning journey.
